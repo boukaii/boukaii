@@ -1,5 +1,7 @@
 ### Hi there 👋
+Bientot diplomé de la formation d'OpenClassrooms.
 
+Je suis à la recherche d'opportunités d'emploi sur Lyon et ces alentours.
 <!--
 **boukaii/boukaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
