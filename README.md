@@ -1,11 +1,11 @@
 ### Hi there 👋
-👨🏻‍🎓Bientot diplomé de la formation d'OpenClassrooms développeur d'application python.
+👨🏻‍🎓 Bientot diplomé de la formation d'OpenClassrooms développeur d'application python.
 
 
-👨🏻‍💻Je suis à la recherche d'opportunités d'emploi sur Lyon et ces alentours.
+👨🏻‍💻 Je suis à la recherche d'opportunités d'emploi sur Lyon et ces alentours.
 
 
-⚡️technologies
+⚡️ technologies
 
 <!--
 **boukaii/boukaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
