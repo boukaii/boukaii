@@ -5,7 +5,7 @@
 👨🏻‍💻 Je suis à la recherche d'opportunités d'emploi sur Lyon et ces alentours.
 
 
-⚡️ technologies
+⚡️ Technologies:
 
 ![images - Copie](https://user-images.githubusercontent.com/97916857/231560770-49b92586-8c21-49eb-8ec0-b8ba6368c4e4.png)
 ![images - Copie (2)](https://user-images.githubusercontent.com/97916857/231561636-9db0e5b1-f24a-4fcc-b129-6f20d984fea5.png)
@@ -17,6 +17,10 @@
 ![téléchargement (6)](https://user-images.githubusercontent.com/97916857/231548239-2aab4ab6-07f3-4385-acba-8b27dd013b6b.png)
 ![téléchargement](https://user-images.githubusercontent.com/97916857/231548242-0d0503e7-569e-47d9-ae88-b03de7ba6a0d.png)
 
+Me contacter:
+
+Email : guillaume27121993@gmail.com                                    
+linkedIn : https://www.linkedin.com/in/guillaume-chevrier-3720a021b/
 
 
 <!--
