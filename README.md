@@ -4,6 +4,10 @@
 
 👨🏻‍💻 Je suis à la recherche d'opportunités d'emploi sur Lyon et ces alentours.
 
+
+⚡️ technologies
+
+![images](https://user-images.githubusercontent.com/97916857/231550474-538ef704-62ce-48f9-817c-360ea8e5c198.png)
 ![téléchargement (1)](https://user-images.githubusercontent.com/97916857/231548224-28107ea1-7eb2-4db6-8eab-07d23829e9bc.png)
 ![téléchargement (2)](https://user-images.githubusercontent.com/97916857/231548229-c32b7ce8-b9a7-4a4e-8b74-260801531948.png)
 ![téléchargement (3)](https://user-images.githubusercontent.com/97916857/231548232-b92d3bd6-4ad7-47f3-9c5c-2c47fd5350b8.png)
@@ -13,7 +17,6 @@
 
 
 
-⚡️ technologies
 <!--
 **boukaii/boukaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
