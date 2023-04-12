@@ -17,7 +17,7 @@
 ![téléchargement (6)](https://user-images.githubusercontent.com/97916857/231548239-2aab4ab6-07f3-4385-acba-8b27dd013b6b.png)
 ![téléchargement](https://user-images.githubusercontent.com/97916857/231548242-0d0503e7-569e-47d9-ae88-b03de7ba6a0d.png)
 
-📩 Me contacter:
+📭 Me contacter:
 
 Email : guillaume27121993@gmail.com                                    
 linkedIn : https://www.linkedin.com/in/guillaume-chevrier-3720a021b/
