@@ -2,7 +2,7 @@
 👨🏻‍🎓 Diplomé de la formation d'OpenClassrooms développeur d'application Python.
 
 
-👨🏻‍💻 Je suis à la recherche d'opportunités d'emploi sur Lyon et ses alentours en tant que développeur Python/Django.
+👨🏻‍💻 Je suis à la recherche d'opportunités d'emploi sur Lyon et ses alentours.
 
 
 ⚡️ Technologies:
