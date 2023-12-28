@@ -1,6 +1,7 @@
 ### Hi there 👋
 👨🏻‍🎓 Diplomé de la formation d'OpenClassrooms développeur Concepteur Logiciel (Python / Django).
 
+
 J'ai pu acquérir des compétences dans plusieurs domaines :
 
   - Développer une application web Django.
@@ -12,6 +13,9 @@ J'ai pu acquérir des compétences dans plusieurs domaines :
 
 
 J'ai également appris à maitriser la POO et la conception MVC ce qui ma permis d'apprendre et de consolider également mes connaissances en PHP / Symfony.
+
+
+
 
 👨🏻‍💻 Je suis à la recherche d'opportunités d'emploi en tant que développeur Back-End sur Lyon et ses alentours.
 
