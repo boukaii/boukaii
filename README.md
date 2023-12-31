@@ -12,7 +12,7 @@ J'ai pu acquérir des compétences dans plusieurs domaines :
   - Résoudre des problèmes en utilisant des algorithmes.
 
 
-J'ai également appris à maitriser la POO et la conception MVC ce qui ma permis d'apprendre et de consolider également mes connaissances en PHP / Symfony.  
+J'ai également appris à maitriser la POO et la conception MVC ce qui ma permis d'apprendre et de consolider mes connaissances en PHP / Symfony.  
 
 
 
