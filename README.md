@@ -25,9 +25,9 @@ J'ai également appris à maitriser la POO et la conception MVC ce qui m'a permi
 
 📭 Me contacter:
 
-Email : guillaume27121993@gmail.com
-PortFolio : https://chevrier-guillaume.netlify.app
-linkedIn : https://www.linkedin.com/in/guillaume-chevrier-3720a021b/
+Email : guillaume27121993@gmail.com  
+PortFolio : https://chevrier-guillaume.netlify.app  
+linkedIn : https://www.linkedin.com/in/guillaume-chevrier-3720a021b/  
 
 
 <!--
