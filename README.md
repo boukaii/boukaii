@@ -6,13 +6,13 @@ J'ai pu acquérir des compétences dans plusieurs domaines :
 
   - Développer une application web Django.
   - Créer une API en utilisant Django REST.
-  - Mise en place de tests unitaires, fonctionnels, intégration et deperformances afin de garantir le bon fonctionnement de l’application.
+  - Mise en place de tests unitaires, fonctionnels, intégration et de performances afin de garantir le bon fonctionnement de l’application.
   - Développer un logiciel en Python.
   - Développer une base de données PostgreSQL sécurisée.
   - Résoudre des problèmes en utilisant des algorithmes.
 
 
-J'ai également appris à maitriser la POO et la conception MVC ce qui ma permis d'apprendre et de consolider mes connaissances en PHP / Symfony.  
+J'ai également appris à maitriser la POO et la conception MVC ce qui m'a permis d'apprendre et de consolider mes connaissances en PHP / Symfony.  
 
 
 
@@ -25,7 +25,8 @@ J'ai également appris à maitriser la POO et la conception MVC ce qui ma permis
 
 📭 Me contacter:
 
-Email : guillaume27121993@gmail.com                                    
+Email : guillaume27121993@gmail.com
+PortFolio : https://chevrier-guillaume.netlify.app
 linkedIn : https://www.linkedin.com/in/guillaume-chevrier-3720a021b/
 
 
