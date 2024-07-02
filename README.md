@@ -1,5 +1,5 @@
 ### Hi there 👋
-👨🏻‍🎓 Diplomé de la formation d'OpenClassrooms développeur Concepteur Logiciel (Python / Django).  
+👨🏻‍🎓 Diplomé de la formation d'OpenClassrooms développeur Concepteur Logiciel Python/Django (Bac+3).  
 
 
 J'ai pu acquérir des compétences dans plusieurs domaines :
@@ -12,7 +12,7 @@ J'ai pu acquérir des compétences dans plusieurs domaines :
   - Résoudre des problèmes en utilisant des algorithmes.
 
 
-J'ai également appris à maitriser la POO et la conception MVC ce qui m'a permis d'apprendre et de consolider mes connaissances en PHP / Symfony.  
+J'ai également appris à maitriser la POO et la conception MVC ce qui m'a permis d'apprendre et de consolider également mes connaissances en PHP / Symfony.  
 
 
 
