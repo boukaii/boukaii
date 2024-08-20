@@ -1,5 +1,5 @@
 ### Hi there 👋
-👨🏻‍🎓 Diplomé de la formation d'OpenClassrooms développeur Concepteur Logiciel Python/Django (Bac+3).  
+👨🏻‍🎓 Diplomé de la formation développeur Concepteur Logiciel (Bac+3).  
 
 
 J'ai pu acquérir des compétences dans plusieurs domaines :
@@ -7,17 +7,17 @@ J'ai pu acquérir des compétences dans plusieurs domaines :
   - Développer une application web Django.
   - Créer une API en utilisant Django REST.
   - Mise en place de tests unitaires, fonctionnels, intégration et de performances afin de garantir le bon fonctionnement de l’application.
-  - Développer un logiciel en Python.
+  - Développer des logiciels en Python.
   - Développer une base de données PostgreSQL sécurisée.
   - Résoudre des problèmes en utilisant des algorithmes.
 
 
-J'ai également appris à maitriser la POO et la conception MVC ce qui m'a permis d'apprendre et de consolider également mes connaissances en PHP / Symfony.  
+J'ai également appris à maîtriser la POO et la conception MVC ce qui m'a permis d'apprendre et de consolider également mes connaissances en PHP / Symfony. De plus, j'ai pu élargir mes connaissances Front-End à l'aide du language JavaScript et de la bibliothèque React.
 
 
 
 
-👨🏻‍💻 Je suis à la recherche d'opportunités d'emploi en tant que développeur Back-End sur Lyon et ses alentours.
+👨🏻‍💻 Je suis à la recherche d'opportunités d'emploi en tant que développeur Full Stack sur Lyon et ses alentours.
 
 
 
