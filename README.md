@@ -1,5 +1,5 @@
 ### Hi there 👋
-👨🏻‍🎓 Diplomé de la formation développeur Concepteur Logiciel (Bac+3).  
+👨🏻‍🎓 Diplômé de la formation développeur Concepteur Logiciel (Bac+3).  
 
 
 J'ai pu acquérir des compétences dans plusieurs domaines :
