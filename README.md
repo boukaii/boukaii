@@ -17,7 +17,6 @@ J'ai également appris à maîtriser la POO et la conception MVC ce qui m'a perm
 
 
 
-👨🏻‍💻 Je suis à la recherche d'opportunités d'emploi en tant que développeur Full Stack sur Lyon et ses alentours.
 
 
 
